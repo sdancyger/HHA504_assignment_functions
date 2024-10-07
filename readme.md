@@ -59,7 +59,7 @@
 ## Google Cloud Platform (GCP)
 
     Step 1
-![1](gcp1.png)
+![1](gcppix/gcp1.png)
 
     Step 2
 ![2](gcp2.png)
