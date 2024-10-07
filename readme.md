@@ -9,30 +9,30 @@
 ![1](azurepix/azurepic1.png)
 
     Step 2
-![1](azurepix/azurepic2.png)
+![2](azurepix/azurepic2.png)
 
     Step 3
-![1](azurepix/azurepic3.png)
+![2](azurepix/azurepic3.png)
 
     Step 4
-![1](azurepix/azurepic4.png)
+![4](azurepix/azurepic4.png)
 
     Step 5
-![1](azurepix/azurepic5.png)
+![5](azurepix/azurepic5.png)
 
     Step 6
-![1](azurepix/azurepic6.png)
+![6](azurepix/azurepic6.png)
 
     Step 7
-![1](azurepix/azurepic7.png)
+![7](azurepix/azurepic7.png)
 
-![1](azurepix/azurepic8.png)
+![8](azurepix/azurepic8.png)
     
     Step 9
-![1](azurepix/azurepic9.png)
+![9](azurepix/azurepic9.png)
 
     Step 10
-![1](azurepix/azurepic10.png)
+![10](azurepix/azurepic10.png)
 
     Step 11
 ![11](azurepix/azurepic11.png)
@@ -62,22 +62,22 @@
 ![1](gcppix/gcp1.png)
 
     Step 2
-![2](gcp2.png)
+![2](gcppix/gcp2.png)
 
     Step 3
-![3](gcp3.png)
+![3](gcppix/gcp3.png)
 
     Step 4
-![4](gcp4.png)
+![4](gcppix/gcp4.png)
 
     Step 5
-![5](gcp5.png)
+![5](gcppix/gcp5.png)
 
     Step 6
-![6](gcp6.png)
+![6](gcppix/gcp6.png)
 
     Step 7
-![7](gcp7.png)
+![7](gcppix/gcp7.png)
 
 ##
 ## Reflection
